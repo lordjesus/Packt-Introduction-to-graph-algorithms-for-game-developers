@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Menu.unity
+    guid: d8357c1c58dc54349aeca29cf8c7a644
+  - enabled: 1
+    path: Assets/_Scenes/Main.unity
+    guid: 2e1c135ea86e59a4996c9e7bd707830e
+  - enabled: 1
+    path: Assets/_Scenes/Fleeing.unity
+    guid: bd92b24c8612c2a469464a5c49f9b86f
+  - enabled: 1
+    path: Assets/_Scenes/NoGhosts.unity
+    guid: 6333678934a8728458194a62b20b3bcb
+  - enabled: 1
+    path: Assets/_Scenes/Pathfinding.unity
+    guid: 3285d914a74f6024e93a8238f835be50
+  - enabled: 1
+    path: Assets/_Scenes/RandomMovement.unity
+    guid: 490175e75c3e29349b5749c9a7e12190

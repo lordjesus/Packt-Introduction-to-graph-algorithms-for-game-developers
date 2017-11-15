@@ -1,0 +1,66 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8086 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\System.dll (this message is harmless)
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.056 seconds
+Platform assembly: H:\Downloads\Packt for GitHub\Introduction to graph algorithms for game developers\Game executables\Section 5 - Examples (Executable)\packtman_Data\Managed\Boo.Lang.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.758183 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.920595 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.266562 ms (FindLiveObjects: 0.042381 ms CreateObjectMapping: 0.016367 ms MarkObjects: 0.196122 ms  DeleteObjects: 0.010814 ms)
+
+Start at 14, 23
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghost died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghost died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghost died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghost died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Ghost died!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1cc0 -> priority: 1 
+  Thread -> id: 43a8 -> priority: 1 
+  Thread -> id: 2a1c -> priority: 1 
+  Thread -> id: 483c -> priority: 1 
